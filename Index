@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>بركة ورزق</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: right;
+        }
+        header {
+            background-color: blue;
+            color: white;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .title {
+            color: yellow;
+        }
+        .nav-link {
+            color: white;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: blue;
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <header class="container-fluid">
+        <div class="title">بركة ورزق</div>
+        <nav class="nav">
+            <a class="nav-link" href="contact.html">تواصل معنا</a>
+            <a class="nav-link" href="branches.html">فروعنا</a>
+            <a class="nav-link" href="projects.html">الأعمال</a>
+        </nav>
+    </header>
+    <section>
+        <h1>مؤسسة بركة ورزق للمقاولات</h1>
+        <h2>تقديم</h2>
+        <p>هذا النص هو مقدمة سأكتبها وأضيف بعض الصور هنا.</p>
+        <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID1" alt="Image 1" class="img-fluid">
+        <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID2" alt="Image 2" class="img-fluid">
+        <h2>الرؤية والرسالة والهدف</h2>
+        <p>هذا النص هو الرؤية والرسالة والهدف وسأكتبه هنا.</p>
+        <h2>سياسة الجودة والأمان</h2>
+        <p>هذا النص هو سياسة الجودة والأمان وسأكتبه هنا.</p>
+        <h2>الخدمات</h2>
+        <p>هذا النص هو الخدمات وسأكتبه هنا.</p>
+        <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID3" alt="Service Image" class="img-fluid">
+        <h2>تراخيص وشهادات</h2>
+        <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID4" alt="Certificate Image" class="img-fluid">
+        <h2>الهيكل التنظيمي</h2>
+        <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID5" alt="Organizational Structure Image" class="img-fluid">
+        <h2>مشروعاتنا</h2>
+        <p>مشروعاتنا: اذا اردت الإطلاع على مشروعاتنا <a href="projects.html">اضغط هنا</a></p>
+    </section>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
