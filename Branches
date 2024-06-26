@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>فروعنا</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: right;
+        }
+        h2 {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h2>فروعنا</h2>
+    <p>تفاصيل الفروع وصور الفروع.</p>
+    <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID6" alt="Branch Image 1">
+    <img src="https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID7" alt="Branch Image 2">
+</body>
+</html>
